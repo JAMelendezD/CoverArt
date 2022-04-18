@@ -1,1 +1,1 @@
-# cover_art
+# Cover Art
